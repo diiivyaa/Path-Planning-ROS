@@ -93,6 +93,7 @@ Using the provided code and the above gain values, TurtleBot3 followed the path 
 Although the robot successfully reached the destination, the overall performance could be improved by optimizing the path to reduce traversal time.
 
 <img src="assets/path1.png" width="200"/>
+
 ---
 
 ### Enhancements
