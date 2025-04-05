@@ -92,8 +92,7 @@ Using the provided code and the above gain values, TurtleBot3 followed the path 
 **Performance Insight**:  
 Although the robot successfully reached the destination, the overall performance could be improved by optimizing the path to reduce traversal time.
 
-![Initial Conditions](assets/path1.png)
-
+<img src="assets/path1.png" width="200"/>
 ---
 
 ### Enhancements
@@ -104,7 +103,7 @@ Although the robot successfully reached the destination, the overall performance
 - **Path Length**: 33 cells  
 - **Time Taken**: 1.39 minutes
 
-![Initial Conditions](assets/cost.png)
+<img src="assets/cost.png" width="200"/>
 
 ---
 
@@ -121,4 +120,4 @@ Although the robot successfully reached the destination, the overall performance
 
 > Note: While effective in this maze, this modification may negatively impact performance in other maze configurations, where the shortest path does not favor the east direction
 
-![Initial Conditions](assets/priority.png)
+<img src="assets/priority.png" width="200"/>
